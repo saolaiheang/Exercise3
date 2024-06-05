@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.container{
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+
+   
+}
+.register h2{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.register{
+    
+    width: 50%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    /* background-color: aqua; */
+   
+    line-height: 2;
+}
+.form-label{
+    color: white;
+    font-size: 20px;
+}
+.form-check p{
+    text-align: left;
+    color: white;
+    font-size: 20px;
+
+}
+.form-check-label{
+    color: white;
+}
+.mb-3 p{
+    color: white;
+    text-align: left;
+}
